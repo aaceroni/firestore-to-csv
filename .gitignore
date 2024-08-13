@@ -1,0 +1,17 @@
+# Dependencias de Node
+node_modules/
+
+# Archivos de servicio o claves privadas
+serviceAccountKey.json
+.env
+
+# Archivos de log
+*.log
+
+# Directorios temporales
+tmp/
+temp/
+
+# Archivos de paquetes del sistema
+.DS_Store
+Thumbs.db
