@@ -1,4 +1,4 @@
-# Aplicación Node.js para exportación de datos a CSV:
+# Aplicación Node.js para exportación de datos desde Firestore a CSV:
 
 # Objetivo: 
 Extraer datos de una base de datos Cloud Firestore y permitir la descarga de esos datos en un archivo CSV a través de un endpoint HTTP.
